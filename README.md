@@ -15,7 +15,7 @@
 I’m Álvaro Garabal Castro, a **Computer Engineer** and recent **MSc Artificial Intelligence graduate from the University of Edinburgh**.  
 I’m passionate about designing and deploying **end-to-end machine learning solutions** that transform complex data into impactful, production-ready systems.  
 
-- 🚀 Interests: **Machine Learning Engineering, Data Science, MLOps, NLP, and Computer Vision**  
+- 🚀 Interests: **Machine Learning Engineering, Data Science, NLP, and Computer Vision**  
 - 🌍 Application domains I’m drawn to: **Finance, Healthcare, and Consumer-Facing AI products**  
 - 🧠 I thrive in **cross-functional teams**, love rapid prototyping, and enjoy turning research into real-world impact.  
 
@@ -34,7 +34,7 @@ I’m actively looking for opportunities as a **Machine Learning Engineer, Data 
 
 ### 📊 What I Do
 
-- 🤖 **ML & Data Science**: Data preprocessing, visualization, statistical analysis, classical ML, deep learning (PyTorch, TensorFlow), NLP (Transformers, Hugging Face), and Computer Vision.  
+- 🤖 **ML & Data Science**: Data preprocessing, visualisation, statistical analysis, classical ML, deep learning (PyTorch, TensorFlow), NLP (Transformers, Hugging Face), and Computer Vision.  
 - 🛠️ **ML Engineering & MLOps**: Data pipelines, model deployment (FastAPI, Flask), scalable APIs, Docker, cloud platforms (GCP), and CI/CD concepts.  
 - 🎓 **Research & Theory**: Solid grounding in advanced mathematics and statistics, with proven experience applying **state-of-the-art techniques** from cutting-edge papers.  
 - 💡 **Creative Problem-Solving**: Rapid prototyping, collaboration across disciplines, and iteration based on real-world feedback.  
@@ -47,7 +47,7 @@ I’m actively looking for opportunities as a **Machine Learning Engineer, Data 
   <a href="mailto:agarabalcastro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/alvarogarabal" target="_blank">
+  <a href="https://www.linkedin.com/in/agarcas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AlvGar9" target="_blank">
