@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Álvaro+Garabal!;+AI+%7C+ML+Engineer+%7C+Data+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Álvaro+Garabal!;" />
 </h1>
 
 ---
@@ -19,7 +19,7 @@ I’m passionate about designing and deploying **end-to-end machine learning sol
 - 🌍 Application domains I’m drawn to: **Finance, Healthcare, and Consumer-Facing AI products**  
 - 🧠 I thrive in **cross-functional teams**, love rapid prototyping, and enjoy turning research into real-world impact.  
 
-I’m actively looking for opportunities as a **Machine Learning Engineer, Data Scientist, or AI Engineer** to contribute my skills and grow as part of an innovative team.  
+I’m actively looking for opportunities as a **Machine Learning Engineer, Data Scientist, or AI Engineer** to contribute my skills and grow as part of an innovative team. Feel free to have a look at my projects!
 
 ---
 
