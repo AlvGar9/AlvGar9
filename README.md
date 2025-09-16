@@ -13,7 +13,7 @@
 ### 🎓 About Me
 
 I’m Álvaro Garabal Castro, a **Computer Engineer** and recent **MSc Artificial Intelligence graduate from the University of Edinburgh**.  
-I’m passionate about designing and deploying **end-to-end machine learning solutions** that transform complex data into impactful, production-ready systems.  
+I’m passionate about designing, building and deploying **end-to-end machine learning solutions** that transform complex data into impactful, production-ready systems.  
 
 - 🚀 Interests: **Machine Learning Engineering, Data Science, NLP, and Computer Vision**  
 - 🌍 Application domains I’m drawn to: **Finance, Healthcare, and Consumer-Facing AI products**  
