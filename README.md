@@ -16,7 +16,7 @@ I’m Álvaro Garabal Castro, a **Computer Engineer** and recent **MSc Artificia
 I’m passionate about designing, building and deploying **end-to-end machine learning solutions** that transform complex data into impactful, production-ready systems.  
 
 - 🚀 Interests: **Machine Learning Engineering, Data Science, NLP, and Computer Vision**  
-- 🌍 Application domains I’m drawn to: **Finance, Healthcare, and Consumer-Facing AI products**  
+- 🌍 Application domains I’m drawn to: **Healthcare, Finance, and Consumer-Facing AI products**  
 - 🧠 I thrive in **cross-functional teams**, love rapid prototyping, and enjoy turning research into real-world impact.  
 
 I’m actively looking for opportunities as a **Machine Learning Engineer, Data Scientist, or AI Engineer** to contribute my skills and grow as part of an innovative team. Feel free to have a look at my projects!
