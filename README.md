@@ -1,44 +1,56 @@
 <p align="center">
   <img src="https://github.com/AlvGar9/AlvGar9/blob/main/my_banner.png" 
-       alt="Banner of a developer sitting in front of a desk" 
+       alt="Banner with AI and coding theme" 
        width="500">
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Alvaro+Garabal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Álvaro+Garabal!;+AI+%7C+ML+Engineer+%7C+Data+Scientist;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+---
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+### 🎓 About Me
 
-<br>
+I’m Álvaro Garabal Castro, a **Computer Engineer** and recent **MSc Artificial Intelligence graduate from the University of Edinburgh**.  
+I’m passionate about designing and deploying **end-to-end machine learning solutions** that transform complex data into impactful, production-ready systems.  
 
-<div align="center">
-  <a href="chijiokeokorji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
-</div>
+- 🚀 Interests: **Machine Learning Engineering, Data Science, MLOps, NLP, and Computer Vision**  
+- 🌍 Application domains I’m drawn to: **Finance, Healthcare, and Consumer-Facing AI products**  
+- 🧠 I thrive in **cross-functional teams**, love rapid prototyping, and enjoy turning research into real-world impact.  
 
-<hr>
+I’m actively looking for opportunities as a **Machine Learning Engineer, Data Scientist, or AI Engineer** to contribute my skills and grow as part of an innovative team.  
 
-## 🛠️ Languages and Tools
+---
 
-<br>
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,git,github,docker,gcp" />
+  <img src="https://skillicons.dev/icons?i=sql,postgresql,fastapi,flask,linux,java,cpp,matlab,vscode" />
 </p>
 
-<hr>
+---
+
+### 📊 What I Do
+
+- 🤖 **ML & Data Science**: Data preprocessing, visualization, statistical analysis, classical ML, deep learning (PyTorch, TensorFlow), NLP (Transformers, Hugging Face), and Computer Vision.  
+- 🛠️ **ML Engineering & MLOps**: Data pipelines, model deployment (FastAPI, Flask), scalable APIs, Docker, cloud platforms (GCP), and CI/CD concepts.  
+- 🎓 **Research & Theory**: Solid grounding in advanced mathematics and statistics, with proven experience applying **state-of-the-art techniques** from cutting-edge papers.  
+- 💡 **Creative Problem-Solving**: Rapid prototyping, collaboration across disciplines, and iteration based on real-world feedback.  
+
+---
+
+### 📬 Let’s Connect
+
+<div align="center">
+  <a href="mailto:agarabalcastro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/alvarogarabal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlvGar9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
