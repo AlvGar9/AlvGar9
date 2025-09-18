@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlvGar9/AlvGar9/blob/main/my_banner.png" 
+  <img src="https://github.com/AlvGar9/AlvGar9/blob/main/my_banner_github.png" 
        alt="Banner with AI and coding theme" 
        width="500">
 </p>
