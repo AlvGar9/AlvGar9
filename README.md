@@ -34,7 +34,9 @@
 
 <img src="https://github.com/AlvGar9/AlvGar9/blob/main/my_banner_github.png" 
      alt="Banner with AI and coding theme" 
-     width="100%">
+     width="120%" height="300px" 
+     style="object-fit: cover;">
+
 
 </td>
 </tr>
