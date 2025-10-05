@@ -9,7 +9,7 @@
 💡 Interests: **ML Engineering, Data Science, NLP, Computer Vision**  
 🌍 Domains: **Healthcare, Finance, Consumer AI products**  
 🧠 Thrive in **cross-functional teams**, rapid prototyping, turning research into impact  
-📌 Actively seeking roles as **ML Engineer, Data Scientist, or AI Engineer**
+📌 Actively seeking roles as **Data Scientist, ML Engineer, or AI Engineer**
 
 ---
 
